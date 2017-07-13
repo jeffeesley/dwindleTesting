@@ -1,0 +1,173 @@
+nav ul a,
+nav .brand-logo {
+  color: #F6F4F3;
+  font-family: 'Vibur', cursive;
+  font-size: 40px;
+}
+
+body{
+  background-color: #F6F4F3;
+}
+
+.navBackground {
+  background-color: #F03A47;
+}
+
+.header1{
+  color: #F6F4F3;
+  font-family: 'Vibur', cursive;
+  font-size: 800%;
+  margin-bottom: 7px;
+}
+
+.header2{
+  color: #F6F4F3;
+  font-size: 200%;
+  margin-bottom: 25px;
+}
+
+#buttons{
+  background-color: #F6F4F3;
+  color: #F03A47;
+  font-style: bold;
+  font-size: 16px;
+  margin-right: 7px;
+  margin-left: 7px;
+}
+
+#index-banner{
+  margin-bottom: 15px;
+}
+
+.section{
+  align-self: center;
+  padding-left: 10px;
+}
+
+.iconContainer{
+  background-color: #F6F4F3;
+}
+
+.material-icons{
+  color: #183059;
+}
+
+h5{
+  color: #183059;
+}
+
+.signUpTitle{
+  color: #F03A47;
+  font-family: 'Vibur', cursive;
+}
+
+.logInTitle{
+  color: #F03A47;
+  font-family: 'Vibur', cursive;
+}
+
+#username{
+  color: #183059;
+}
+
+#firstName{
+  color: #183059;
+}
+
+#email{
+  color: #183059;
+}
+
+#password{
+  color: #183059;
+}
+
+#height{
+  color: #183059;
+}
+
+#currentWeight{
+  color: #183059;
+}
+
+#goalWeight{
+  color: #183059;
+}
+
+.datePicker{
+  color: #F03A47;
+}
+
+p{
+  color: #183059;
+}
+
+.infoContainer{
+  background-color: #449DD1;
+}
+
+.dashboardContainer{
+  background-color: #AF5B5B;
+}
+
+.navIcons{
+  color: #F6F4F3;
+}
+
+.parallax{
+  background-color: #F03A47;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+  background-color: #183059;
+}
+
+.connectText {
+  color: #F6F4F3;
+}
+
+.brand-logo{
+  font-family: ;
+}
